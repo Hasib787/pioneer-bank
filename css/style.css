@@ -7,3 +7,6 @@ body{
     border-radius: 0.8em;
     box-shadow:0.31em 0.31em 1em gray ;
 }
+#transaction-area{
+    display: none;
+}
