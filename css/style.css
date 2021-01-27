@@ -1,3 +1,9 @@
 body{
     padding: 6.25em;
 }
+.submit-area{
+    margin-top: 3.12em;
+    padding: 2.5em;
+    border-radius: 0.8em;
+    box-shadow:0.31em 0.31em 1em gray ;
+}
